@@ -1,0 +1,3 @@
+triki
+pyautogui
+pycaw
