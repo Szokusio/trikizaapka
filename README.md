@@ -15,7 +15,7 @@ Jedna aplikacja do obslugi kapselka Triki. Stare, dzialajace skrypty pozostaja w
 Uzyj interpretera, w ktorym zainstalowane sa `triki`, `pyautogui` i `pycaw`:
 
 ```powershell
-C:/Users/pwasi/AppData/Local/Programs/Python/Python314/python.exe -m triki_control
+python.exe -m triki_control
 ```
 
 Po polaczeniu wybierz numer trybu. Przytrzymanie przycisku kapselka przez 1.5 sekundy wraca do menu.
