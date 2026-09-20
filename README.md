@@ -27,7 +27,7 @@ Projekt jest napisany w Pythonie i działa obecnie na Windows.
 Sklonuj repozytorium i przejdź do jego katalogu:
 
 ```powershell
-git clone https://github.com/TWOJ_LOGIN/triki-control-center.git
+git clone (https://github.com/Szokusio/trikizaapka.git
 cd triki-control-center
 ```
 
