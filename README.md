@@ -105,7 +105,7 @@ startowej. Ruch musi trwać co najmniej 0,5 sekundy. Klik zeruje licznik.
 ## Struktura projektu
 
 ```text
-triki-control-center/
+trikizaapka/
 ├── triki_control/
 │   ├── __main__.py          # menu główne i uruchamianie trybów
 │   ├── config.py             # ustawienia czułości i progów
@@ -116,7 +116,6 @@ triki-control-center/
 │       ├── sensors.py        # podgląd sensorów
 │       ├── timer.py          # timer
 │       └── volume.py         # sterowanie głośnością
-├── dzialajace skrypt/        # wcześniejsze, samodzielne wersje skryptów
 ├── requirements.txt
 ├── run_triki.py
 └── README.md
