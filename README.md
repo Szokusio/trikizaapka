@@ -28,7 +28,7 @@ Sklonuj repozytorium i przejdź do jego katalogu:
 
 ```powershell
 git clone https://github.com/Szokusio/trikizaapka.git
-cd triki-control-center
+cd trikizaapka
 ```
 
 Utwórz środowisko wirtualne:
